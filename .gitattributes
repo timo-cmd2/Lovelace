@@ -1,0 +1,10 @@
+*.lace linguist-language=newlisp
+
+*.lace text eol=lf
+*.adb text eol=lf
+*.ads text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.build text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
