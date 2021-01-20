@@ -1,4 +1,4 @@
-*.lace linguist-language=newlisp
+#*.lace linguist-language=newlisp
 
 *.lace text eol=lf
 *.adb text eol=lf
