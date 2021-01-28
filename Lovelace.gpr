@@ -1,0 +1,3 @@
+Project Lovelace is
+  for Source_Dirs use (".", "../sources");
+end Lovelace;
